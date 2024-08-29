@@ -18,17 +18,6 @@ TripSage is a mobile application designed to assist travelers, especially those 
 
 After installing the app, users can input their travel preferences and budget constraints. The app will interact with the ChatGPT API to generate personalized travel itineraries, including recommendations for accommodations, dining, and activities that match the user's criteria.
 
-## Contributing
-
-We welcome contributions from the community! If you're interested in improving TripSage, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a pull request, and we'll review your changes.
-
-
 ## Acknowledgments
 
 - Special thanks to OpenAI for providing the ChatGPT API, which powers the personalized itinerary suggestions in TripSage.
